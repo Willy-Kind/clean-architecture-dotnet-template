@@ -42,7 +42,7 @@ Followed by:
 ```bash
 cd MyCleanApiProject
 dotnet build
-dotnet run
+dotnet run --project src/*.WebApi/*.csproj
 ```
 
 ### Test
