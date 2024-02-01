@@ -20,7 +20,7 @@ If you don't have the .Net SDK installed wisit [Download.Net](https://dotnet.mic
 To clone the repository and get started with development, run the following commands:
 
 ```bash
-git clone [https://github.com/YourUsername/CleanWebApiTemplate.git](https://github.com/Willy-Kind/clean-architecture-dotnet-template.git)
+git clone https://github.com/Willy-Kind/clean-architecture-dotnet-template.git
 cd clean-architecture-dotnet-template
 ```
 
