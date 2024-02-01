@@ -35,7 +35,7 @@ dotnet new -i clean-architecture-dotnet-template
 ### Usage
 Create a new Clean Architecture Web API project with:
 ```bash
-dotnet new CleanWebApiTemplate -n MyCleanApiProject
+dotnet new ca-sln -n MyCleanApiProject
 ```
 
 Followed by:
