@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5t0wm5QYbcPpaHMr/DG/i3R5cIWCiSqi6pyHQecIdPjhtQml6io9xj37MY4OslpUz0aFiBs0WADoZ+pIcig4SQ==",
+  "success": true,
+  "projectFilePath": "/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/willy/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/home/willy/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Application.deps.json
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Application.dll
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Application.pdb
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Core.dll
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Core.pdb
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.csproj.AssemblyReference.cache
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.AssemblyInfoInputs.cache
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.AssemblyInfo.cs
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.csproj.CopyComplete
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.dll
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/obj/Debug/net8.0/refint/CleanArchitecture.Application.dll
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.pdb
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Application/obj/Debug/net8.0/ref/CleanArchitecture.Application.dll

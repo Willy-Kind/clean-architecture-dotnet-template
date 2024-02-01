@@ -1,0 +1,11 @@
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Core/bin/Debug/net8.0/CleanArchitecture.Core.deps.json
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Core/bin/Debug/net8.0/CleanArchitecture.Core.dll
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Core/bin/Debug/net8.0/CleanArchitecture.Core.pdb
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Core/obj/Debug/net8.0/CleanArchitecture.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Core/obj/Debug/net8.0/CleanArchitecture.Core.AssemblyInfoInputs.cache
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Core/obj/Debug/net8.0/CleanArchitecture.Core.AssemblyInfo.cs
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Core/obj/Debug/net8.0/CleanArchitecture.Core.csproj.CoreCompileInputs.cache
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Core/obj/Debug/net8.0/CleanArchitecture.Core.dll
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Core/obj/Debug/net8.0/refint/CleanArchitecture.Core.dll
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Core/obj/Debug/net8.0/CleanArchitecture.Core.pdb
+/home/willy/repo/CleanArchitecture/src/CleanArchitecture.Core/obj/Debug/net8.0/ref/CleanArchitecture.Core.dll
