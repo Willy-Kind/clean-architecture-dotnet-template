@@ -38,7 +38,7 @@ Create a new Clean Architecture Web API project with:
 dotnet new ca-sln -n MyCleanApiProject
 ```
 
-Followed by:
+Followed by to build and run:
 ```bash
 cd MyCleanApiProject
 dotnet build
