@@ -2,7 +2,7 @@
 
 ## Description
 
-Ths is a .NET template that provides a simple Clean Architecture implementation for building Web APIs. This template is a refactor of the standard dotnet "webapi" template, introducing a structure aiming to follow the principles of Clean Architecture.
+This is a simple .NET Web Api template with a Clean Architectureish implementation.
 
 ## Getting Started
 
