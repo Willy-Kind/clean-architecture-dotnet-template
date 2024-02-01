@@ -12,7 +12,7 @@ Ensure you have the following prerequisites installed:
 
 - .NET SDK (version 8)
 
-If you don't have the .Net SDK installed wisit [Download.Net](https://dotnet.microsoft.com/en-us/download) and follow the instruction
+If you don't have the .Net SDK installed visit [Download.Net](https://dotnet.microsoft.com/en-us/download) and follow the instruction
 
 
 
