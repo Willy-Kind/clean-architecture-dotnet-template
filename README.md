@@ -21,7 +21,6 @@ To clone the repository and get started with development, run the following comm
 
 ```bash
 git clone https://github.com/Willy-Kind/clean-architecture-dotnet-template.git
-cd clean-architecture-dotnet-template
 ```
 
 ### Installation
